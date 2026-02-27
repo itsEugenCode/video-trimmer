@@ -1,0 +1,106 @@
+{
+  "" : {
+    "const-values" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video-trimmer-primary.swiftconstvalues",
+    "dependencies" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video-trimmer-primary.d",
+    "diagnostics" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video-trimmer-primary.dia",
+    "emit-module-dependencies" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video-trimmer-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video-trimmer-primary-emit-module.dia",
+    "pch" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video-trimmer-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video-trimmer-primary.swiftdeps"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Models/VideoFile.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoFile.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoFile.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoFile.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Services/FileNamingService.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileNamingService.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileNamingService.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileNamingService.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Services/FileService.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileService.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileService.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileService.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Services/PlayerService.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/PlayerService.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/PlayerService.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/PlayerService.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Services/VideoScanner.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoScanner.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoScanner.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoScanner.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Services/VideoTrimmerEngine.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoTrimmerEngine.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoTrimmerEngine.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoTrimmerEngine.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Services/VideoValidator.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoValidator.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoValidator.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoValidator.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/ViewModels/MainViewModel.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/MainViewModel.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/MainViewModel.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/MainViewModel.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/AdditionalActionsRow.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/AdditionalActionsRow.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/AdditionalActionsRow.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/AdditionalActionsRow.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/ControlRow.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/ControlRow.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/ControlRow.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/ControlRow.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/FileInfoSection.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileInfoSection.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileInfoSection.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/FileInfoSection.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/InitialView.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/InitialView.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/InitialView.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/InitialView.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/MainView.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/MainView.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/ProgressOverlayView.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/ProgressOverlayView.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/ProgressOverlayView.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/ProgressOverlayView.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/TimelineView.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/TimelineView.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/TimelineView.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/TimelineView.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/TrimActionSection.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/TrimActionSection.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/TrimActionSection.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/TrimActionSection.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/VideoPlayerView.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoPlayerView.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoPlayerView.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/VideoPlayerView.o"
+  },
+  "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/video_trimmerApp.swift" : {
+    "index-unit-output-path" : "/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video_trimmerApp.o",
+    "llvm-bc" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video_trimmerApp.bc",
+    "object" : "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/build/Build/Intermediates.noindex/video-trimmer.build/Release/video-trimmer.build/Objects-normal/arm64/video_trimmerApp.o"
+  }
+}

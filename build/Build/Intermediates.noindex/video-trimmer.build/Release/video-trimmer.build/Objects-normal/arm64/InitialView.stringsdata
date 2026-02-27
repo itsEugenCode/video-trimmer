@@ -1,0 +1,48 @@
+{
+  "source": "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/InitialView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Video Trimmer",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Обрезка видео",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Нажмите сюда для выбора файла",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "перетащите файл сюда",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "или",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 55
+        }
+      }
+    ]
+  },
+  "version": 1
+}

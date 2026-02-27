@@ -1,0 +1,64 @@
+{
+  "source": "/Users/eugen/Documents/projects/video-trimmer/v5_xcode/video-trimmer/video-trimmer/Views/ProgressOverlayView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Обрезка видео",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Обработка...",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Завершение...",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Осталось времени: ~%lld сек",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Скорость: N/A",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Отмена",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 100
+        }
+      }
+    ]
+  },
+  "version": 1
+}
