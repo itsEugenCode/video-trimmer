@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'video-trimmer' in project 'video-trimmer' (no dependencies)
